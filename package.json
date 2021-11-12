@@ -1,0 +1,27 @@
+{
+  "name": "myifcjs",
+  "version": "1.0.0",
+  "description": "ifcjs tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astrokd/myIFCjs.git"
+  },
+  "author": "kd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/astrokd/myIFCjs/issues"
+  },
+  "homepage": "https://github.com/astrokd/myIFCjs#readme",
+  "dependencies": {
+    "three": "^0.132.2",
+    "web-ifc-three": "^0.0.81"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^13.0.6",
+    "rollup": "^2.59.0"
+  }
+}
